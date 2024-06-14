@@ -1,0 +1,8 @@
+{
+    "name": "malinga/gym-placement-system",
+    "description": "Gym Management System",
+    "require": {
+      "php": "^7.4 || ^8.0"
+    }
+  }
+  
