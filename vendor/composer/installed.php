@@ -3,7 +3,7 @@
         'name' => 'malinga/gym-placement-system',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'f5b53371b53b37675b37a1953d830165ce036073',
+        'reference' => 'cb45b1f77bbc22cfde261fcd14973aa8bd436098',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'malinga/gym-placement-system' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'f5b53371b53b37675b37a1953d830165ce036073',
+            'reference' => 'cb45b1f77bbc22cfde261fcd14973aa8bd436098',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
