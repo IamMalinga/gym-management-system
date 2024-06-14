@@ -1,0 +1,10 @@
+# Turn on URL rewriting
+RewriteEngine On
+
+# Handle directory index
+DirectoryIndex index.php
+
+# Redirect all requests to index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
